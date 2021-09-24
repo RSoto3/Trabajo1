@@ -6,8 +6,11 @@ APLICACIÓN GRAFOS Para la asignatura de grafos se requiere una completa aplicac
 -Cantidad de Aristas. Hay que especificar qué tipo de grafo es: simple, dirigido, multígrafo, cíclico, conexo, plano, regular, ponderado, rueda, completo, ciclo, etc. 
 -Especificar  si  tiene  caminos  o  circuitos:  simples,  compuestos,  bucles,  cerrados, eulerianos, hamiltonianos, etc. 
 -Definir si los grafos son isomorfos.
+
 -Desplegar las matrices de adyacencia y de caminos C. 
+
 -Desplegar el número de regiones que contiene el grafo. Definir el número cromático. 
+
 -Colorear los grafos con algoritmo a elección del estudiante.
 
 ~La aplicación debe ser flexible y robusta, es decir, debe ser capaz de funcionar bajo cualquier tipo de grafo ingresado. La única limitante que tendrá el académico será el de respetar la estructura y forma de ingreso del grafo a la aplicación. 
