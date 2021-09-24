@@ -10,7 +10,8 @@ APLICACIÓN GRAFOS</br>
 -Especificar  si  tiene  caminos  o  circuitos:  simples,  compuestos,  bucles,  cerrados, eulerianos, hamiltonianos, etc. </br>
 -Definir si los grafos son isomorfos.</br>
 -Desplegar las matrices de adyacencia y de caminos C. </br>
--Desplegar el número de regiones que contiene el grafo. Definir el número cromático. </br>
+-Desplegar el número de regiones que contiene el grafo. </br>
+-Definir el número cromático. </br>
 -Colorear los grafos con algoritmo a elección del estudiante.</br>
 
 #La aplicación debe ser flexible y robusta, es decir, debe ser capaz de funcionar bajo cualquier tipo de grafo ingresado. La única limitante que tendrá el académico será el de respetar la estructura y forma de ingreso del grafo a la aplicación. </br>
