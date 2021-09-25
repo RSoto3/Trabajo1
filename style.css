@@ -34,3 +34,26 @@ footer{
     text-align: center;
 
  }
+ button{
+     margin-top: 15%;
+     height: 150px;
+     width: 400px;
+     text-align: center;
+     margin-left: 10%;
+ }
+ .btn1{
+    width: 400px;
+    height: 150px;
+    background: #3498db;
+    padding: 10px 20px;
+    font-size: 30px;
+    font-family:Arial;
+    margin-left: 10%;
+    text-decoration: none;
+    border-radius: 12px;
+    margin-top:15%;
+    align-items: center;
+    display: inline-flex;
+    justify-content: space-around;
+ }
+ 
