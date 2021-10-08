@@ -2,7 +2,6 @@ var nodes, edges, network;
 var arrayIdVertices = [];// array en donde se guardan los ids de los nodos
 var matrizAdy = new Array(); // matriz de ady
 var pesos_aristas = []; // array en donde se guardan los pesos
-var label=1;
 
 // convenience method to stringify a JSON object
 function toJSON(obj) {
